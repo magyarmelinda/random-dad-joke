@@ -1,5 +1,5 @@
 # icanhazdadjoke
-Dummy dad jokes site
+Dummy dad jokes site.
 
 - Async JS
 - [Axios](https://github.com/axios/axios) (used library)
