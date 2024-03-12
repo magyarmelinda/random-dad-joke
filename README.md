@@ -1,4 +1,4 @@
-# icanhazdadjoke
+# Random Dad Joke
 Dummy dad jokes site.
 
 - Async JS
